@@ -1,0 +1,10 @@
+. env
+.vscode
+
+*.рус
+.DS_Store
+_pycache
+
+venv/
+
+.streamlit/
